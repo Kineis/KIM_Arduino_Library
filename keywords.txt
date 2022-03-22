@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For KIM2
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+KIM						KEYWORD1
+retStatusKIM_t			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+KIM_check					KEYWORD2
+KIM_sendATCommandGet		KEYWORD2
+KIM_sendATCommandSet		KEYWORD2
+KIM_userWakeupPinToggle		KEYWORD2
+KIM_powerON					KEYWORD2
+KIM_getState				KEYWORD2
+KIM_sendUARTRaw				KEYWORD2
+KIM_uint2hexString			KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RX_KIM				LITERAL1
+TX_KIM				LITERAL1
+USER_INT_KIM		LITERAL1
+ON_OFF_KIM			LITERAL1
